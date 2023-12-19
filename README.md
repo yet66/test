@@ -1,2 +1,1 @@
-<a href="https://render.com/deploy?repo=https://github.com/yet66/crimsonoox">
-<img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/main/buttons/remade/render.svg"></img></a>
+<a href="https://render.com/deploy?repo=https://github.com/yet66/crimsonoox"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"><img></a>
